@@ -1,0 +1,6 @@
+{
+  "name": "VShop",
+  "description": "Trending video shopping app with AI Stylist and AI Caption Maker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

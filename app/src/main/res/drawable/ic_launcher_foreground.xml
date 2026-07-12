@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Hanger / Bag Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 42,42 C 42,28 66,28 66,42" />
+
+    <!-- Shopping Bag Body with modern angles -->
+    <path
+        android:fillColor="#E1BEE7"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M 32,42 H 76 L 82,88 H 26 L 32,42 Z" />
+
+    <!-- Inner gold accents with gradient or color -->
+    <path
+        android:fillColor="#FFCD4D"
+        android:pathData="M 50,52 L 64,62 L 50,72 L 46,72 Z" />
+
+    <path
+        android:fillColor="#8E2DE2"
+        android:pathData="M 50,52 L 46,72 L 50,72 Z" />
+
+    <!-- A cute sparkle / fashion star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 72,48 C 72,48 74,52 76,52 C 78,52 80,48 80,48 C 80,48 78,44 76,44 C 74,44 72,48 72,48 Z" />
+
+</vector>
